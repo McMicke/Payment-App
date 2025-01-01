@@ -1,4 +1,4 @@
-# flutter_application_1
+# Internet Bundle
 
 A new Flutter project.
 
